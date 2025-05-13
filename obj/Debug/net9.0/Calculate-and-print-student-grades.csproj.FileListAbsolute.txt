@@ -1,0 +1,15 @@
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\bin\Debug\net9.0\Calculate-and-print-student-grades.exe
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\bin\Debug\net9.0\Calculate-and-print-student-grades.deps.json
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\bin\Debug\net9.0\Calculate-and-print-student-grades.runtimeconfig.json
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\bin\Debug\net9.0\Calculate-and-print-student-grades.dll
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\bin\Debug\net9.0\Calculate-and-print-student-grades.pdb
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.AssemblyInfoInputs.cache
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.AssemblyInfo.cs
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.csproj.CoreCompileInputs.cache
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.sourcelink.json
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.dll
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\refint\Calculate-and-print-student-grades.dll
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.pdb
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\Calculate-and-print-student-grades.genruntimeconfig.cache
+C:\Users\jurem\Desktop\C#_projects\Calculate-and-print-student-grades\obj\Debug\net9.0\ref\Calculate-and-print-student-grades.dll
